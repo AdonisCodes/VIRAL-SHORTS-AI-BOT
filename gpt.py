@@ -202,7 +202,6 @@ def split_analyze(string):
 
         if part is not None:
             for p in part:
-                print(p)
                 parts.append(p)
     # Return the Response In one Massive List of Dicts
     return parts

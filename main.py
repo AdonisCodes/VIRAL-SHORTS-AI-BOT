@@ -236,7 +236,7 @@ def detect_faces(video):
     print("Capturing Face Location...")
     face_locations = []
     for i in range(int(fps) * math.floor(vid.duration)):
-        if i % 30 != 0:
+        if i % 15 != 0:
             continue
         # Return the locations of the face/s
         ret, frame = camera.read()
@@ -383,7 +383,7 @@ def crop_vid(input, locations, output, i):
 
     # Starting the Cropping Process
     print("Started Cropping...")
-    for i in range(len(locations)):
+    for j in range(len(locations)):
         sub = video.subclip(cur_time, cur_time + (video.duration / len(locations)))
         bottom_x = locations[i][0] + locations[i][2]
         middle_x = (locations[i][0] + bottom_x) // 2
