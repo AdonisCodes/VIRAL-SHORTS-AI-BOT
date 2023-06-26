@@ -1,1 +1,3 @@
-"# VIRAL-SHORTS-AI-BOT" 
+# Viral SHORTS AI BOT
+
+the viral shorts 

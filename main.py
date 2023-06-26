@@ -1,5 +1,4 @@
 import datetime
-from tqdm import *
 from youtube_transcript_api import YouTubeTranscriptApi
 import math
 from format_h import *
@@ -7,8 +6,6 @@ import pathlib
 import random
 import subprocess
 import time
-from art import *
-from click import *
 import cv2
 import pysrt
 import requests
