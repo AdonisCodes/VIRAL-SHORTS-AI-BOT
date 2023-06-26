@@ -1,4 +1,6 @@
-image_magic_bin = "C:/Program Files/ImageMagick-7.1.1-Q16-HDRI/magick.exe" 
+image_magic_bin = "C:/Program Files/ImageMagick-7.1.1-Q16-HDRI/magick.exe"  # Install ImageMagick, copy the path to
+# the magick.exe, and paste it here. You probably wont have to paste it but just in case
+# https://imagemagick.org/script/download.php
 temp_folder = "temp"
 emoji_font = "C:/Windows/Fonts/seguiemj.ttf"
 
@@ -52,4 +54,4 @@ video_themes = [
 ]
 
 # OpenAi
-op_apikey = ""
+op_apikey = "" # OpenAi API key here; Tutorial: https://www.youtube.com/watch?v=nafDyRsVnXU
