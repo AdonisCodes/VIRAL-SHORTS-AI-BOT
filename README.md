@@ -6,7 +6,7 @@ The viral Shorts AI bot is a bot that takes a simple url as input and can conver
 
 ### Input & Output
 <p align="center" style="display:grid; grid-template-columns: 50% 50%; gap: 10px; justify-content: space-between;">
-  <img src="Assets/readme_img/input.png" width="350" title="hover text">
+  <img src="https://raw.githubusercontent.com/AdonisCodes/VIRAL-SHORTS-AI-BOT/main/Assets/readme_img/Input.png?token=GHSAT0AAAAAACDWB7HPV7YOBSTQ7AMPZ3AUZEZHV3A" width="500" title="hover text">
   <img src="Assets/readme_img/output.png" height="200" alt="accessibility text">
 </p>
 
